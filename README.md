@@ -1,0 +1,1 @@
+To see this work, just open the terminal and do a `docker-compose build` and `docker-compose up`
