@@ -1,1 +1,1 @@
-To see this work, just open the terminal and do a `docker-compose build` and `docker-compose up`
+To see this work, you first need to open main.py and provide an API key and an encryption passphrase. Then open the terminal and do a `docker-compose build` and `docker-compose up`, and you should see AttributeError: /usr/local/lib/python3.6/site-packages/uplink_python/libuplinkc.so: undefined symbol: uplink_request_access_with_passphrase
